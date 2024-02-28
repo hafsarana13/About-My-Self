@@ -7,9 +7,6 @@
 <img align="right"alt="coding"width="400"src="![image](https://github.com/hafsarana13/README/assets/161238737/405fe1b2-48ce-41ea-920d-8faea38ddccd)
 ">
 
-<img align="rigth"alt="coding"width="200"src=![logo](https://github.com/hafsarana13/README/blob/main/profile.gif.jpg)
-<img align="rigth"alt="coding"width="400"src="![image](https://github.com/hafsarana13/README/assets/161238737/71ad40be-7ed3-4bdf-8ef3-fc86259185e")
-
 
 - 🔭 I’m currently working on **Web Development**
 
