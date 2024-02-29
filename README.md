@@ -4,8 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Hafsa Rana</h1>
 <h3 align="center">I Want To Be a Web Developer</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/hafsarana13/README/assets/161238737/405fe1b2-48ce-41ea-920d-8faea38ddccd)
-">
+
+
+
+![logo](https://github.com/hafsarana13/README/blob/main/profile.gif.gif)
 
 
 - 🔭 I’m currently working on **Web Development**
